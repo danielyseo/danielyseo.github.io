@@ -5,14 +5,12 @@ work:
   - category: Professional
     items:
       - item: example.html
-        image: /images/placeholder.png # optionally, include the file path for an image for each item
+        #image:  # optionally, include the file path for an image for each item
       - item: example2.html
-        image: /images/placeholder.png
+        #image:
 
   - category: Artistic
     items:
-      - item: example3.html
-        image: /images/pic3.jpg
       - item: example3.html
         image: /images/pic2.jpg
       - item: example3.html
@@ -22,4 +20,4 @@ work:
       - item: example3.html
         image: /images/pic4.png
       - item: example3.html
-        image: /images/pic7.jpg
+        image: /images/pic3.jpg
