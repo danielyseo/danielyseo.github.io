@@ -1,11 +1,11 @@
 # _config.yml
 
 # required, replace with your own information -----
-title: Hello for Github Pages
-author: Sara Gong
+title: daniel seo
+author: Daniel Seo
 description: > 
-  A minimalist template for designing a personal GitHub Pages website - without typing a single line of code.
-baseurl: ""
+  a look inside
+baseurl: "danielyseo.github.io"
 
 plugins:
   - jekyll-feed
