@@ -44,7 +44,7 @@ cta_button_label: e-mail me # the label on the button
 [//]: # (write a bit about yourself here)
 ### **emory university - goizueta business school '20**
 **bachelor's in business administration**
-**focus in marketing & arts management**
+### **focus in marketing & arts management**
 
 marketer and artist. i am currently co-creating and illustrating a children's book to be self-published. i have experience in managing teams and projects, working with strict deadlines, and providing consulting in business and marketing. i am passionate in making an impact in my community through my work, and continuously finding new avenues of growth.
 
