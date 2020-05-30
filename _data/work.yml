@@ -16,12 +16,12 @@ work:
       - item: example3.html
         image: /images/pic4.png
       - item: example3.html
+        image: /images/ie.jpg
+      - item: example3.html
         image: /images/pic5.jpg
       - item: example3.html
         image: /images/pic3.jpg
       - item: example3.html
         image: /images/pic2.jpg
-      - item: example3.html
-        image: /images/ie.jpg
       - item: example3.html
         image: /images/car.JPG
