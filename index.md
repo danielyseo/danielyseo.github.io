@@ -42,14 +42,9 @@ cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### why **hello**?  
+### Hi there!  
 
-### **hello** has a simple goal: to make GitHub Pages accessible to everyone.  
+### My name is **Daniel Seo**
   
-I am passionate in **marketing, visual arts, and continuously learning new things**.
+I am an Emory University Goizueta Business School '20 graduate, where I majored in a Bachelor of Business Adminstration with a focus in Marketing and Arts Management. I am passionate in finding creative solutions, reaching out to underserved segments, and continuously learning new things.
   
-
-The default layout of **hello** is a streamlined single page with three major customizable sections: a required "about" section, an optional portfolio, and an optional CTA. Using [Liquid](https://shopify.github.io/liquid/) variables declared by in the config and index files, **hello** offers an easy-to-use design where all customizations necessary for a basic personal website can be written in [Markdown](https://www.markdownguide.org/basic-syntax/).  
-
-
-**hello** is adapted from [Twenty](https://html5up.net/twenty), a responsive, mobile-friendly theme by HTML5 Up.
