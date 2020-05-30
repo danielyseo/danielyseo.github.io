@@ -9,10 +9,10 @@ banner_subtitle: creative, connected, curious
 background_image: /images/background.jpeg
 
 # all of the following variables are optional -----------------
-page_url: /hello # only include this variable if you aren't building the page to your primary domain 
+# page_url: /hello # only include this variable if you aren't building the page to your primary domain 
 
 # favicon
-favicon: /assets/ico/favicon.ico
+# favicon: /assets/ico/favicon.ico
 
 # social media
 # twitter_username: notsaragong # # your twitter handle
@@ -42,9 +42,7 @@ cta_button_label: e-mail me # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### Hi there!  
-
-### My name is **Daniel Seo**
+### Hi, my name is **Daniel Seo**!
   
 I am an Emory University Goizueta Business School '20 graduate, where I majored in a Bachelor of Business Adminstration with a focus in Marketing and Arts Management. I am passionate in finding creative solutions, reaching out to underserved segments, and continuously learning new things.
   
