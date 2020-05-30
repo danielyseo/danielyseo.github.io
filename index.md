@@ -46,6 +46,4 @@ cta_button_label: e-mail me # the label on the button
 **bachelor's in business administration | focus in marketing & arts management**
 
 marketer and artist. i am currently co-creating and illustrating a children's book to be self-published. i have experience in managing teams and projects, working with strict deadlines, and providing consulting in business and marketing. i am passionate in making an impact in my community through my work, and continuously finding new avenues of growth.
-  
-resume_button: xxx # a link to an external website or to media
-resume_button_label: resume # the label on the button
+
