@@ -42,7 +42,7 @@ cta_button_label: e-mail me # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### Hi, my name is **Daniel Seo**!
+### hi, my name is **Daniel Seo**!
   
 I am an Emory University Goizueta Business School '20 graduate, where I majored in a Bachelor of Business Adminstration with a focus in Marketing and Arts Management. I am passionate in finding creative solutions, reaching out to underserved segments, and continuously learning new things.
   
