@@ -11,7 +11,7 @@ work:
 
   - category: design
     items:
-      - item: example3.html
+      - #item: example3.html
         image: /images/pic8.jpg
       - item: example3.html
         image: /images/pic4.png
@@ -21,3 +21,7 @@ work:
         image: /images/pic3.jpg
       - item: example3.html
         image: /images/pic2.jpg
+      - item: example3.html
+        image: /images/ie.jpg
+      - #item: example3.html
+        image: /images/car.jpg
