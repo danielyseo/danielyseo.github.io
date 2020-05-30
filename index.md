@@ -36,13 +36,14 @@ portfolio_description: here you can see a few of my professional projects and ar
 
 # By declaring these variables, you can include a CTA section.
 cta: connect # the heading for your CTA section
-cta_description: please don't hesitate to reach out to (501) 410 4149 or danielseo98@gmail.com. # a description to be desplayed below the heading and above the content
+cta_description: please call (501-410-4149) or email me (danielseo98@gmail.com) for any questions or inquiries. # a description to be desplayed below the heading and above the content
 cta_button: mailto:danielseo98@gmail.com # a link to an external website or to media
 cta_button_label: e-mail me # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
-### hi, my name is **Daniel Seo**!
-  
-I am an Emory University Goizueta Business School '20 graduate, where I majored in a Bachelor of Business Adminstration with a focus in Marketing and Arts Management. I am passionate in finding creative solutions, reaching out to underserved segments, and continuously learning new things.
+### emory university - goizueta business school '20
+### bachelor's in business administration | focus in marketing & arts management
+
+marketer and artist. i am currently co-creating and illustrating a children's book to be self-published. i have experience in managing teams and projects, working in strict deadlines, and consulting valuable marketing expertise. i am passionate in making an impact in my community through my work, and finding new opportunities of growth.
   
