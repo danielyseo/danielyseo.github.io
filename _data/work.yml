@@ -11,11 +11,11 @@ work:
 
   - category: Artistic
     items:
-      - item: example.html
+      - item: example3.html
         image: /images/pic5.jpg
-      - item: example.html
+      - item: example3.html
         image: /images/pic8.jpg
-      - item: example.html
-        image: /images/LA3.jpg
-      - item: example.html
-        image: /images/LA4.jpg
+      - item: example3.html
+        image: /images/pic4.png
+      - item: example3.html
+        image: /images/pic7.jpg
