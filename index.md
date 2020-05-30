@@ -36,7 +36,7 @@ portfolio_description: what i've done
 
 # By declaring these variables, you can include a CTA section.
 cta: connect # the heading for your CTA section
-cta_description: please call (501-410-4149) or email me (danielseo98@gmail.com) for any questions or inquiries. # a description to be desplayed below the heading and above the content
+cta_description: please call (501-410-4149) or email (danielseo98@gmail.com) for any inquiries. # a description to be desplayed below the heading and above the content
 cta_button: mailto:danielseo98@gmail.com # a link to an external website or to media
 cta_button_label: e-mail me # the label on the button
 
