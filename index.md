@@ -30,7 +30,7 @@ about_button_label: resume # the label on the button
 # By declaring these variables, you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. In addition, you must 1) create an HTML file in the_includes folder for each project with the text you'd like to display, and 2) create a YAML file in the _data folder describing the order in which each project should be shown and categorized. See `/includes/example.html` and `/_data/work.yml` for examples.
 
 portfolio: work # the heading for your portfolio and title of your YAML file
-portfolio_description: from proposals to art
+portfolio_description: _________________
 
 # optional CTA section --------------------------------------------------
 
@@ -43,7 +43,8 @@ cta_button_label: e-mail me # the label on the button
 ---			
 [//]: # (write a bit about yourself here)
 ### **emory university - goizueta business school '20**
-**bachelor's in business administration | focus in marketing & arts management**
+**bachelor's in business administration**
+**focus in marketing & arts management**
 
 marketer and artist. i am currently co-creating and illustrating a children's book to be self-published. i have experience in managing teams and projects, working with strict deadlines, and providing consulting in business and marketing. i am passionate in making an impact in my community through my work, and continuously finding new avenues of growth.
 
