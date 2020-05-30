@@ -2,22 +2,22 @@
 # in the root directory
 
 work:
-  - category: Professional
+  - category: Projects
     items:
       - item: example.html
         #image:  # optionally, include the file path for an image for each item
       - item: example2.html
         #image:
 
-  - category: Artistic
+  - category: Design
     items:
       - item: example3.html
         image: /images/pic2.jpg
       - item: example3.html
-        image: /images/pic5.jpg
-      - item: example3.html
         image: /images/pic8.jpg
       - item: example3.html
         image: /images/pic4.png
+      - item: example3.html
+        image: /images/pic5.jpg
       - item: example3.html
         image: /images/pic3.jpg
