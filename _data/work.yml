@@ -2,14 +2,14 @@
 # in the root directory
 
 work:
-  - category: **projects**
+  - category: projects
     items:
       - item: example2.html
         #image:  # optionally, include the file path for an image for each item
       - item: example.html
         #image:
 
-  - category: **design**
+  - category: design
     items:
       - item: example3.html
         image: /images/pic8.jpg
