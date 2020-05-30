@@ -5,12 +5,16 @@ work:
   - category: Professional
     items:
       - item: example.html
-        image: /images/LA3.jpg # optionally, include the file path for an image for each item
+        image: /images/placeholder.png # optionally, include the file path for an image for each item
       - item: example2.html
-        image: /images/LA3.jpg
+        image: /images/placeholder.png
 
   - category: Artistic
     items:
+      - item: example3.html
+        image: /images/pic3.jpg
+      - item: example3.html
+        image: /images/pic2.jpg
       - item: example3.html
         image: /images/pic5.jpg
       - item: example3.html
